@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [07/Apr/2014:17:10:38 -0400] "GET /SafeRideHome/ws/login HTTP/1.1" 405 1013 http-bio-8585-exec-1 97
+0:0:0:0:0:0:0:1 - - [07/Apr/2014:17:10:39 -0400] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8585-exec-6 0
+0:0:0:0:0:0:0:1 - - [07/Apr/2014:17:16:44 -0400] "POST /SafeRideHome/ws/login/validateUser HTTP/1.1" 415 1092 http-bio-8585-exec-8 8
+0:0:0:0:0:0:0:1 - - [07/Apr/2014:17:17:31 -0400] "POST /SafeRideHome/ws/login/validateUser HTTP/1.1" 500 5455 http-bio-8585-exec-9 1434
+0:0:0:0:0:0:0:1 - - [07/Apr/2014:17:18:12 -0400] "POST /SafeRideHome/ws/login/validateUser HTTP/1.1" 500 5455 http-bio-8585-exec-10 22
+0:0:0:0:0:0:0:1 - - [07/Apr/2014:17:19:01 -0400] "POST /SafeRideHome/ws/login/validateUser HTTP/1.1" 500 5453 http-bio-8585-exec-1 102
+0:0:0:0:0:0:0:1 - - [07/Apr/2014:17:25:53 -0400] "POST /SafeRideHome/ws/login/validateUser HTTP/1.1" 200 202 http-bio-8585-exec-6 3245
